@@ -1,0 +1,15 @@
+[submodule "WordWrap"]
+	path = WordWrap
+	url = git@github.com:lorenzom222/WordWrap.git
+[submodule "2048-Game"]
+	path = 2048-Game
+	url = git@github.com:lorenzom222/2048-Game.git
+[submodule "Block-Climbers"]
+	path = Block-Climbers
+	url = git@github.com:lorenzom222/Block-Climbers.git
+[submodule "Printing-Arrays"]
+	path = Printing-Arrays
+	url = git@github.com:lorenzom222/Printing-Arrays.git
+[submodule "SwappingArray"]
+	path = SwappingArray
+	url = git@github.com:lorenzom222/SwappingArray.git
